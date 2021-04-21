@@ -1,0 +1,81 @@
+[
+  {
+    "driver_id": 1,
+    "driver_name": "Asep Sutrisna",
+    "car": "Honda Jazz",
+    "police_number": "D 111 AB",
+    "rating":5.0,
+    "availability":true,
+    "location": {
+      "latitude": -69218100,
+      "longitude": 1076070400
+    },
+    "location_name": "Alun-Alun Kota Bandung, West Java, Indonesia",
+    "distance": 0.0
+  },
+  { "driver_id": 2,
+    "driver_name": "Bisma Derajat",
+    "car": "Honda Brio",
+    "police_number": "D 222 CD",
+    "rating":5.0,
+    "availability":true,
+    "location": {
+      "latitude": -69214800,
+      "longitude": 1076013300
+    },
+    "location_name": "Cibadak Night Culinary Festival, West Java, Indonesia",
+    "distance": 0.0
+  },
+  { "driver_id": 3,
+    "driver_name": "Didi Gunawan",
+    "car": "Toyota Innova",
+    "police_number": "D 444 GH",
+    "rating":5.0,
+    "availability":true,
+    "location": {
+      "latitude": -69167800,
+      "longitude": 1076089500
+    },
+    "location_name": "Braga Citywalk, West Java, Indonesia",
+    "distance": 0.0
+  },
+  { "driver_id": 4,
+    "driver_name": "Cio Etis",
+    "car": "Toyota Avanza",
+    "police_number": "D 333 EF",
+    "rating":5.0,
+    "availability":true,
+    "location": {
+      "latitude": -69177300,
+      "longitude": 1075932000
+    },
+    "location_name": "Mas Gondrong Seafood Resto, West Java, Indonesia",
+    "distance": 0.0
+  },
+  { "driver_id": 5,
+    "driver_name": "Endang Sunandar",
+    "car": "Toyota Alphard",
+    "police_number": "D 666 KL",
+    "rating":5.0,
+    "availability":true,
+    "location": {
+      "latitude": -69168406,
+      "longitude": 1076111557
+    },
+    "location_name": "Grapari Telkom Lembong",
+    "distance": 0.0
+  },
+  { "driver_id": 6,
+    "driver_name": "Fajar Rafli",
+    "car": "Lexus LX570",
+    "police_number": "D 555 IJ",
+    "rating":5.0,
+    "availability":true,
+    "location": {
+      "latitude": -69176078,
+      "longitude": 1076116680
+    },
+    "location_name": "Nehru Memorial School",
+    "distance": 0.0
+  }
+]
